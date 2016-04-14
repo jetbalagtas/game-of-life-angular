@@ -1,5 +1,8 @@
 # An Angular version for Conway's Game of Life
-https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+( https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life )
+
+The live page with cloudified local dependencies is here:
+http://jetbalagtas.github.io/game-of-life-angular
 
 To install:
 ```
